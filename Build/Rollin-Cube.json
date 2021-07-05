@@ -1,0 +1,16 @@
+{
+"companyName": "TAKEWAKE Software",
+"productName": "Rollin' Cube",
+"productVersion": "1.0",
+"dataUrl": "Rollin-Cube.data.unityweb",
+"wasmCodeUrl": "Rollin-Cube.wasm.code.unityweb",
+"wasmFrameworkUrl": "Rollin-Cube.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
