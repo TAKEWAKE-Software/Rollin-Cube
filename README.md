@@ -16,4 +16,4 @@ Make sure that you don't fall into the void!
 
 ## Repository information
 
-**This repository only contains the WebGL build of Rollin' Cube. You can find a PC and Linux build in the releases section. For legal reasons, the full source code and the assets are not publicly available!**
+**This repository only contains the WebGL build of Rollin' Cube. You can find Windows and Linux builds in the releases section. For legal reasons, the full source code and the assets are not publicly available!**
