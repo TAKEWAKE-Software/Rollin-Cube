@@ -1,7 +1,7 @@
 {
 "companyName": "TAKEWAKE Software",
 "productName": "Rollin' Cube",
-"productVersion": "1.0",
+"productVersion": "1.1",
 "dataUrl": "Rollin-Cube.data.unityweb",
 "wasmCodeUrl": "Rollin-Cube.wasm.code.unityweb",
 "wasmFrameworkUrl": "Rollin-Cube.wasm.framework.unityweb",
